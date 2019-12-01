@@ -11,7 +11,7 @@ React is an open-source JavaScript library which is used for building user inter
 * Website: https://reactjs.org/
 * Github: https://github.com/facebook/react
 
-## Type Script
+## TypeScript
 
 TypeScript is a superset of JavaScript which primarily provides optional static typing, classes and interfaces. TypeScript is a language for application-scale JavaScript, it adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript.
 
